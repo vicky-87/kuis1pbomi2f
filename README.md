@@ -16,4 +16,7 @@ Deskripsi
 - Ketika mesin menyala, SepedaMotor diharuskan untuk dinyalakan terlebih dahulu
 
 Project dikumpulkan di repositori Git ini dengan format folder: **KUIS1PBO_NIM_NAMA**
-Waktu pengerjaan dimulai jam 07.00 sampai 09.00
+
+Waktu pengerjaan adalah jam 07.00 sampai 09.00
+
+NB: Harap tenang dalam mengerjakan, segala bentuk kecurangan ada konsekuensi yang akan diterima
